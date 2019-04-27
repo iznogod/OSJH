@@ -1,0 +1,4 @@
+main()
+{
+	OSJH\collidingPlayers::onFrame();
+}
